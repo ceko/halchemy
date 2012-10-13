@@ -1,0 +1,5 @@
+Beaker==1.6.4
+bottle==0.11.2
+bottle-cork==0.2
+pycrypto==2.6
+wsgiref==0.1.2
